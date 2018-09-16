@@ -1,0 +1,11 @@
+C:\Projetos\CoreApiEfCodeFirst\bin\Debug\netcoreapp2.0\CoreApiEfCodeFirst.deps.json
+C:\Projetos\CoreApiEfCodeFirst\bin\Debug\netcoreapp2.0\CoreApiEfCodeFirst.runtimeconfig.json
+C:\Projetos\CoreApiEfCodeFirst\bin\Debug\netcoreapp2.0\CoreApiEfCodeFirst.runtimeconfig.dev.json
+C:\Projetos\CoreApiEfCodeFirst\bin\Debug\netcoreapp2.0\CoreApiEfCodeFirst.dll
+C:\Projetos\CoreApiEfCodeFirst\bin\Debug\netcoreapp2.0\CoreApiEfCodeFirst.pdb
+C:\Projetos\CoreApiEfCodeFirst\obj\Debug\netcoreapp2.0\CoreApiEfCodeFirst.csprojAssemblyReference.cache
+C:\Projetos\CoreApiEfCodeFirst\obj\Debug\netcoreapp2.0\CoreApiEfCodeFirst.csproj.CoreCompileInputs.cache
+C:\Projetos\CoreApiEfCodeFirst\obj\Debug\netcoreapp2.0\CoreApiEfCodeFirst.AssemblyInfoInputs.cache
+C:\Projetos\CoreApiEfCodeFirst\obj\Debug\netcoreapp2.0\CoreApiEfCodeFirst.AssemblyInfo.cs
+C:\Projetos\CoreApiEfCodeFirst\obj\Debug\netcoreapp2.0\CoreApiEfCodeFirst.dll
+C:\Projetos\CoreApiEfCodeFirst\obj\Debug\netcoreapp2.0\CoreApiEfCodeFirst.pdb
